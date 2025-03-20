@@ -1,30 +1,24 @@
-# Hi there, I'm Prabhat! 👋
+# 👋 Hi, I'm Prabhat!
 
-Welcome to my GitHub profile! I'm a passionate web developer with a knack for crafting beautiful and functional web applications. Here's a little bit about me:
+💻 Frontend Developer | 🎨 Logo Designer | 🚀 Freelancer on Fiverr | 👨‍🎓 Student At Inflection Institute .
 
-## 🔭 What I'm Currently Working On
-- Building responsive and user-friendly web applications.
-- Exploring the latest trends and technologies in web development.
-- Contributing to open-source projects.
+### 🚀 About Me:
+- 🔹 I build responsive, modern websites with **HTML, CSS, JavaScript, Tailwind CSS,**.
+- 🔹 Passionate about UI/UX & animations ✨.
+- 🔹 Currently learning **.
+- 🔹 Open to frontend projects & collaborations!  
 
-## 🌱 What I'm Learning
-- Advanced JavaScript frameworks like React and Vue.js.
-- Backend development with Node.js and Express.
-- Cloud services and DevOps practices.
+### 🛠️ Tech Stack:
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 
-## 💬 Ask Me About
-- Frontend development (HTML, CSS, JavaScript).
-- Web design and user experience.
-- Git and version control.
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhat-web-craft0110&show_icons=true&theme=tokyonight)
 
-## 📫 How to Reach Me
-- Email: prabhat.pkr012@gmail.com
-- Facebook: https://www.facebook.com/prabhatseth2007
-- x.com: https://x.com/PrabhatSet38321
+### 🌟 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](your-twitter-url)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-green?style=for-the-badge&logo=fiverr)](your-fiverr-url)
 
-## ⚡ Fun Fact
-I love to travel and explore new places. When I'm not coding, you can find me hiking or reading a good book.
-
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or have any questions!
-
-Happy coding! 🚀
