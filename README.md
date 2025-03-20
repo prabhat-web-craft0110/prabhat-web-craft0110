@@ -5,7 +5,7 @@
 ### 🚀 About Me:
 - 🔹 I build responsive, modern websites with **HTML, CSS, JavaScript, Tailwind CSS,**.
 - 🔹 Passionate about UI/UX & animations ✨.
-- 🔹 Currently learning **.
+- 🔹 Currently learning **Ethical Hacking**.
 - 🔹 Open to frontend projects & collaborations!  
 
 ### 🛠️ Tech Stack:
