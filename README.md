@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a knack for cr
 - Git and version control.
 
 ## 📫 How to Reach Me
-- Email: prabhat.pkr012@gmail.com
+- Email: prabhatfrontendx@gmail.com
 - Facebook: https://www.facebook.com/prabhatseth2007
 - x.com: https://x.com/PrabhatSet38321
 
