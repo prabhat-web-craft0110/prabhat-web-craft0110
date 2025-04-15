@@ -1,6 +1,14 @@
-# Welcome to My GitHub Profile
+<div align="center">
+  
+# Welcome to My GitHub Profile 
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Problem+Solver;Code+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+
+</div>
 
 ## About Me
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 I'm a passionate software developer dedicated to creating elegant solutions to complex problems. With a strong foundation in both frontend and backend technologies, I strive to build applications that are not only functional but also intuitive and user-friendly.
 
@@ -9,6 +17,14 @@ I'm a passionate software developer dedicated to creating elegant solutions to c
 - 👯 I'm looking to collaborate on innovative open-source projects
 - 💬 Ask me about software development, system design, and best practices
 - ⚡ Fun fact: I love solving puzzles and brain teasers in my free time
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 ## My Tech Stack
 
@@ -48,7 +64,11 @@ I'm a passionate software developer dedicated to creating elegant solutions to c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## My Development Philosophy
+
+<img align="left" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx4YTQ0YWZyZ3R2bjJpc2thazFiMmVqMDBqcDU5MzQxZTdwZG51cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 I believe in writing clean, maintainable code that follows best practices and design patterns. My approach to development includes:
 
@@ -58,7 +78,20 @@ I believe in writing clean, maintainable code that follows best practices and de
 - Documentation-first mindset to ensure knowledge sharing
 - Performance optimization as a core consideration
 
+<br clear="all">
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Latest Blog Posts
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <!-- BLOG-POST-LIST:START -->
 - [Advanced Design Patterns in Modern Web Development](https://yourblog.com)
@@ -67,7 +100,11 @@ I believe in writing clean, maintainable code that follows best practices and de
 - [Security Best Practices for Web Applications](https://yourblog.com)
 <!-- BLOG-POST-LIST:END -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Open Source Contributions
+
+<img align="left" alt="GIF" height="170px" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 I'm passionate about contributing to open-source projects and giving back to the developer community. Some areas I focus on include:
 
@@ -76,15 +113,28 @@ I'm passionate about contributing to open-source projects and giving back to the
 - Feature development
 - Code reviews and mentoring
 
+<br clear="all">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Connect With Me
 
-I love connecting with fellow developers and tech enthusiasts. Feel free to reach out to me through:
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <p><em>I love connecting with different people, so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-Thank you for visiting my profile! I'm always open to interesting conversations and collaboration opportunities.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  
+  <p>Thank you for visiting my profile! I'm always open to interesting conversations and collaboration opportunities.</p>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+</div>
