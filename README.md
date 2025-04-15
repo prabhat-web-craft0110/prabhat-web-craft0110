@@ -8,7 +8,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbC_dQarlW9BmQOl5hybuGeo4SMuM6Ot1Bw&s">
+
 
 I'm a passionate software developer dedicated to creating elegant solutions to complex problems. With a strong foundation in both frontend and backend technologies, I strive to build applications that are not only functional but also intuitive and user-friendly.
 
