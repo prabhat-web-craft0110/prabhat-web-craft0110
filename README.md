@@ -2,7 +2,7 @@
   
 # Welcome to My GitHub Profile 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Problem+Solver;Code+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Front-end Developer;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 
 </div>
 
